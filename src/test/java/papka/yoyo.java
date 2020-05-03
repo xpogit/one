@@ -7,6 +7,5 @@ public class yoyo {
         System.out.println("Run it for me!!!!!!");
 
         System.out.println("Below mistake");
-        s;
     }
 }
